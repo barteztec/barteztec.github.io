@@ -1,7 +1,7 @@
 JSON_languages = {
   "EN": {
     "rl-headline": "Diseñados para las necesidades de los gamers actuales",
-    "rl-subhead": "SEXOOOOO de&nbsp;la&nbsp;industria te permiten llegar más lejos al jugar y crear contenido.¹ Desde avanzar en el juego hasta progresar en el&nbsp;mundo real, alcanza tu máximo potencial con Intel®.",
+    "rl-subhead": "La arquitectura híbrida recientemente optimizada y la tecnología más avanzada de la industria te permiten llegar más lejos al jugar y crear contenido.¹ Desde avanzar en el juego hasta progresar en el mundo real, alcanza tu máximo potencial con Intel®.",
     "rl-activity-btn-0-text": "Gaming",
     "rl-activity-btn-1-text": "Creación",
     "rl-activity-btn-2-text": "Productividad",
